@@ -26,3 +26,10 @@ npm start -- <user_lat> <user_long> <csv_url>
 ```bash
 npm test
 ```
+
+## Build
+
+```bash
+npm run build
+cd /lib && node index.js -- <user_lat> <user_long> <csv_url>
+```
